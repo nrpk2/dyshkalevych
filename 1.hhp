@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=1.chm
+Contents file=5.hhc
+Default topic=3.htm
+Display compile progress=No
+Language=0x422 Украинский (Украина)
+Title=Заголовок довідкової системи
+
+
+[FILES]
+3,2.htm
+3.htm
+4.htm
+
+[INFOTYPES]
+
